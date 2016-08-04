@@ -1,0 +1,57 @@
+_repo: The-Fortune-of-the-Rougons_5135
+_version: 0.0.1
+alternative_title: La Fortune des Rougon. English
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+  editor:
+    agent_name: Vizetelly, Ernest Alfred
+    alias: Vizetelly, E. A. (Ernest Alfred)
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '3192'
+    url: http://www.gutenberg.org/2009/agents/3192
+description: "The Fortune of the Rougons (French: La Fortune des Rougon), originally\
+  \ published in 1871, is the first novel in Émile Zola's monumental twenty-volume\
+  \ series Les Rougon-Macquart. The novel is partly an origin story, with a huge cast\
+  \ of characters swarming around - many of whom become the central figures of later\
+  \ novels in the series - and partly an account of the December 1851 coup d'état\
+  \ that created the French Second Empire under Napoleon III as experienced in a large\
+  \ provincial town in southern France. The title refers not only to the \"fortune\"\
+  \ chased by protagonists Pierre and Felicité Rougon, but also to the fortunes of\
+  \ the various disparate family members Zola introduces, whose lives are of central\
+  \ importance to later books in the series.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5135'
+  wikidata: Q2714636
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- 1848-1870 -- Fiction'
+- GITenberg
+title: The Fortune of the Rougons
+url: http://www.gutenberg.org/ebooks/5135
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Fortune_des_Rougon
+- https://pt.wikipedia.org/wiki/A_Fortuna_dos_Rougon
+- https://pl.wikipedia.org/wiki/Pochodzenie_rodziny_Rougon-Macquart%C3%B3w
+- https://cs.wikipedia.org/wiki/%C5%A0t%C4%9Bst%C3%AD_Rougon%C5%AF
+- https://fa.wikipedia.org/wiki/%D8%AB%D8%B1%D9%88%D8%AA_%D8%B1%D9%88%DA%AF%D9%86%E2%80%8C%D9%87%D8%A7
+- https://de.wikipedia.org/wiki/Das_Gl%C3%BCck_der_Familie_Rougon
+- https://es.wikipedia.org/wiki/La_fortuna_de_los_Rougon
+- https://en.wikipedia.org/wiki/The_Fortune_of_the_Rougons
+- https://it.wikipedia.org/wiki/La_fortuna_dei_Rougon
+- https://fr.wikisource.org/wiki/La_Fortune_des_Rougon
